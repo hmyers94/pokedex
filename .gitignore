@@ -1,0 +1,17 @@
+## ignorance is bliss
+
+_resampled
+.DS_Store
+*.sublime-*
+*.map
+/*.log
+/.env
+/.site
+/.idea/
+/.vscode/
+/public/assets/
+/public/.well-known/
+/public/resources/
+/public/_resources/
+/silverstripe-cache/
+/vendor/
